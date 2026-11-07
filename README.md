@@ -4,7 +4,9 @@ An automated calendar of individual movie showtimes across Ciudad de México.
 
 **Website:** https://k10sj02.github.io/mexico-city-cinema-calendar/
 
-**Subscription:** https://k10sj02.github.io/mexico-city-cinema-calendar/mexico-city-cinema.ics
+**Evening subscription (showtimes from 5 p.m.):** https://k10sj02.github.io/mexico-city-cinema-calendar/mexico-city-cinema-evenings.ics
+
+**Complete subscription:** https://k10sj02.github.io/mexico-city-cinema-calendar/mexico-city-cinema.ics
 
 ## Coverage
 

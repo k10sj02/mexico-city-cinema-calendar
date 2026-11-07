@@ -46,8 +46,12 @@ def main() -> int:
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(render(events), newline="")
+    evening_events = [event for event in events if event.start.hour >= 17]
+    evening_output = output.with_name("mexico-city-cinema-evenings.ics")
+    evening_output.write_text(render(evening_events), newline="")
     save_state(state_path, events)
     report = {"generated": datetime.now(ZoneInfo(TZID)).isoformat(), "count": len(events),
+              "evening_count": len(evening_events),
               "sources_ok": sorted(successful), "errors": errors, "coverage_ends": {k: v.isoformat() for k, v in coverage.items()}}
     output.with_suffix(".json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
     return 0

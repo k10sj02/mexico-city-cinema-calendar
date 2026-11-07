@@ -9,10 +9,10 @@ body{font:18px/1.6 system-ui,sans-serif;max-width:760px;margin:60px auto;padding
 </style>
 <h1>Mexico City Cinema Calendar</h1>
 <p>An automatically refreshed calendar of individual movie showtimes across Mexico City, combining Cinépolis and Cinemex listings with independent cinemas, cinetecas, cineclubs, and cultural screening spaces.</p>
-<p><a id="subscription" href="mexico-city-cinema.ics">Subscribe in Apple Calendar</a> · <a href="mexico-city-cinema.ics">Download calendar</a></p>
+<p><a id="subscription" href="mexico-city-cinema-evenings.ics">Subscribe to evening showtimes</a> · <a href="mexico-city-cinema.ics">Subscribe to all showtimes</a></p>
 <p>For Google Calendar, choose Other calendars → + → From URL, then paste:</p>
 <input id="url" aria-label="Calendar subscription URL" readonly>
 <p><a href="mexico-city-cinema.json">Last refresh status</a> · <a href="https://github.com/k10sj02/mexico-city-cinema-calendar">Source code</a></p>
 <p>Refreshes every six hours. Cinema schedules change frequently; confirm the original listing before attending.</p>
-<script>const u=new URL('mexico-city-cinema.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script>
+<script>const u=new URL('mexico-city-cinema-evenings.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script>
 </html>
