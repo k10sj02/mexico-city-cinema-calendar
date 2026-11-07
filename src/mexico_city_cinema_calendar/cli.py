@@ -45,10 +45,12 @@ def main() -> int:
         return 3
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(render(events), newline="")
+    output.write_text(render(events, calendar_name="Mexico City Cinema — All Showtimes"), newline="")
     evening_events = [event for event in events if event.start.hour >= 17]
     evening_output = output.with_name("mexico-city-cinema-evenings.ics")
-    evening_output.write_text(render(evening_events), newline="")
+    evening_output.write_text(render(
+        evening_events, calendar_name="Mexico City Cinema — Evenings"
+    ), newline="")
     save_state(state_path, events)
     report = {"generated": datetime.now(ZoneInfo(TZID)).isoformat(), "count": len(events),
               "evening_count": len(evening_events),

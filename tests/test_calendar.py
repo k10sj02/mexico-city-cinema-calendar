@@ -21,6 +21,12 @@ def test_valid_ics_timezone_and_duration():
     assert max(len(line.encode()) for line in raw.splitlines()) <= 75
 
 
+def test_calendar_feed_names_can_be_distinct():
+    raw = render([sample()], calendar_name="Mexico City Cinema — Evenings")
+    parsed = Calendar.from_ical(raw)
+    assert str(parsed["X-WR-CALNAME"]) == "Mexico City Cinema — Evenings"
+
+
 def test_merge_removes_semantic_cross_source_duplicate():
     other = Screening(**{**sample().__dict__, "source": "hay-cine-cdmx", "source_id": "2"})
     assert len(merge([sample(), other])) == 1

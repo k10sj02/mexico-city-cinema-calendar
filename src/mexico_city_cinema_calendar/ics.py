@@ -25,11 +25,14 @@ def fold(line: str) -> list[str]:
     return output
 
 
-def render(events: list[Screening], generated_at: datetime | None = None) -> str:
+def render(
+    events: list[Screening], generated_at: datetime | None = None,
+    calendar_name: str = "Mexico City Cinema — All Showtimes",
+) -> str:
     now = generated_at or datetime.now(timezone.utc)
     stamp = now.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Mexico City Cinema Calendar//EN",
-             "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:Mexico City Cinema",
+             "CALSCALE:GREGORIAN", "METHOD:PUBLISH", f"X-WR-CALNAME:{calendar_name}",
              f"X-WR-TIMEZONE:{TZID}", "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
     for event in sorted(events, key=lambda value: (value.start, value.venue, value.title)):
         details = [event.description]
