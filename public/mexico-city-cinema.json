@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-10T01:44:47.201790-06:00",
-  "count": 16479,
-  "evening_count": 8428,
+  "generated": "2026-11-10T14:00:55.364564-06:00",
+  "count": 20048,
+  "evening_count": 10074,
   "sources_ok": [
     "cineya-cdmx",
     "hay-cine-cdmx"
   ],
   "errors": {},
   "coverage_ends": {
-    "cineya-cdmx": "2026-11-29",
+    "cineya-cdmx": "2026-11-30",
     "hay-cine-cdmx": "2026-11-30"
   }
 }
