@@ -146,24 +146,6 @@
       }
     },
     {
-      "uid": "46a75bdfe4855cbc8b1090426d226dc9@mexico-city-cinema-calendar",
-      "fingerprint": "a07bd36a54221d648461a27381e3a38763b19ace6c346ae2644c652dd8cc578f",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "0b6b9cbb77e277b8a7c5a7f1",
-        "title": "Caballo salvaje nueve",
-        "start": "2026-11-15T11:10:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55089&visLang=1",
-        "description": "Zona: Churubusco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "8586c9a6e86dcc501b5c737d8f1b2d8f@mexico-city-cinema-calendar",
       "fingerprint": "92792a66364f51738b51f415089ce0c2390c7b7841bdd38f89a0fdcd79d20258",
       "event": {
@@ -308,24 +290,6 @@
       }
     },
     {
-      "uid": "35e7fec3b2ea247af37038475b5eda80@mexico-city-cinema-calendar",
-      "fingerprint": "0a55ea34dba47b65eb860c1d7d33536e9263e8d2c7da130b23214a0d15452817",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "763e26c00fe7e41f198eca13",
-        "title": "Ciudad de muertos",
-        "start": "2026-11-15T12:05:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55090&visLang=1",
-        "description": "Zona: Churubusco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "fb8595af20a67f93f42f4e583d629b42@mexico-city-cinema-calendar",
       "fingerprint": "94bf7f7b19abd51d654f5e413dda2183a1e7f814c75b0d860c9cd9c92cb3ee1d",
       "event": {
@@ -452,24 +416,6 @@
       }
     },
     {
-      "uid": "e5b0136cb50f56d5cff3774d96ebd605@mexico-city-cinema-calendar",
-      "fingerprint": "76aaef98594791aba900cc55301a2a3e11b98666b5736c19233d995df7dede16",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "3b90d1cda23477ed07eb09b0",
-        "title": "Digger",
-        "start": "2026-11-15T12:30:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55072&visLang=1",
-        "description": "Zona: Churubusco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "50c505918f6859767ae61b2d8c7741c8@mexico-city-cinema-calendar",
       "fingerprint": "fcf067d5a10ed923917d5f45a3d39d2179d42c3dc83b777d2ce6a9ba6967ebca",
       "event": {
@@ -535,24 +481,6 @@
         "address": "Av. México Coyoacán 389, Xoco, Benito Juárez, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=52161&visLang=1",
         "description": "Zona: Xoco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "159780040cb364e51ad533a43258da54@mexico-city-cinema-calendar",
-      "fingerprint": "f00525eac6a18c1dfc7fcc938c1bc39baf3ffffa730815336e6bd3e710a82620",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "b49a0802946b17b62fc43e94",
-        "title": "El árbol mágico",
-        "start": "2026-11-15T11:10:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55086&visLang=1",
-        "description": "Zona: Churubusco",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -686,24 +614,6 @@
       }
     },
     {
-      "uid": "39eb7dfd0e0368cd211251c63702421a@mexico-city-cinema-calendar",
-      "fingerprint": "24d47d76cd28cc8da38cab7c03288f8279975e7e8d2a2c6e67ec21ec03531265",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "4735859b753723c702ac9ce8",
-        "title": "El poder de la red",
-        "start": "2026-11-15T12:00:00-06:00",
-        "venue": "Cineteca Nacional Chapultepec",
-        "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16766&visLang=1",
-        "description": "Zona: Chapultepec",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "a26555d1427c92e7cb59ef9acebfe2a2@mexico-city-cinema-calendar",
       "fingerprint": "6f7635543375712a6b3bee79537c2c13e028a3738c50ad018fbae7dc9ce5c944",
       "event": {
@@ -830,24 +740,6 @@
       }
     },
     {
-      "uid": "4601150a5e66e420a7e13dfe74c87ce0@mexico-city-cinema-calendar",
-      "fingerprint": "bafdbcddc4d4dba578bedaeb5af71b450e1a63078a05a3f52ad421fad0859f6c",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "f70608a03883dc1de1bf9116",
-        "title": "Itsanaxa, la cosecha sagrada",
-        "start": "2026-11-15T11:50:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55084&visLang=1",
-        "description": "Zona: Churubusco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "0c075b6b3f73eee04f95521fc217f6e0@mexico-city-cinema-calendar",
       "fingerprint": "8d35fe4a943d8fa8a7651edb9a934edfc96681ae28f7201c18a119fc0b180899",
       "event": {
@@ -949,24 +841,6 @@
         "address": "Av. México Coyoacán 389, Xoco, Benito Juárez, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=52154&visLang=1",
         "description": "Zona: Xoco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "cd86a79ce6acdee209f1a122e147374f@mexico-city-cinema-calendar",
-      "fingerprint": "405a7ca3bc1513694e7fc8f4c9a28915f934a8c4cbf93544228fd60923adf378",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "389930d3ec7f98f55b1d511d",
-        "title": "La pequeña hermana",
-        "start": "2026-11-15T11:00:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55087&visLang=1",
-        "description": "Zona: Churubusco",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -1129,24 +1003,6 @@
         "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16773&visLang=1",
         "description": "Zona: Chapultepec",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "19337c5b1ce835e545065d1e6e325170@mexico-city-cinema-calendar",
-      "fingerprint": "59260b7b15962219aeff517a6d360c0184e46061d7723407631f34d12c12e062",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "c77fc233466e59e92a22460c",
-        "title": "La venganza del Charro Negro",
-        "start": "2026-11-15T11:40:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55091&visLang=1",
-        "description": "Zona: Churubusco",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -1388,24 +1244,6 @@
       }
     },
     {
-      "uid": "1502dab70d949909a018c854f63f7cca@mexico-city-cinema-calendar",
-      "fingerprint": "f1b988555e790f19b966b0f9ca042bd659979d87adae1c488ef987ee07d7873c",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "3d17db200136f7d0a13c716b",
-        "title": "Los Doors",
-        "start": "2026-11-15T11:20:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55088&visLang=1",
-        "description": "Zona: Churubusco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "30cf082e7dfdd55cb98c9cffc459ccc5@mexico-city-cinema-calendar",
       "fingerprint": "bb65539fbecc4cc31a40a3f6536843ed9bad998f3120f99ffebcd0a0ccba00f2",
       "event": {
@@ -1550,24 +1388,6 @@
       }
     },
     {
-      "uid": "f91076ea90dcb83d4c24ac43944cc34a@mexico-city-cinema-calendar",
-      "fingerprint": "43cf69f5e927c80958ed4b73a77abff63b607381fa35b8e3425194f58269ec6e",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "c6b4612f01f146c430331ba1",
-        "title": "Mary y Max DOB",
-        "start": "2026-11-15T12:10:00-06:00",
-        "venue": "Cineteca Nacional Chapultepec",
-        "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16756&visLang=1",
-        "description": "Zona: Chapultepec",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "4e2aefc248aba3e0c32b4a81356882a0@mexico-city-cinema-calendar",
       "fingerprint": "4afec947332c5dc011a0befcf50440d48aca8e9d1a67688a292b6e8f04e8c7d2",
       "event": {
@@ -1579,24 +1399,6 @@
         "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16757&visLang=1",
         "description": "Zona: Chapultepec",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "a52648f55c6652f70613168ae307623f@mexico-city-cinema-calendar",
-      "fingerprint": "5a9f878e2bb126432380fceb04538ce0140f9d0c321b8409b1aa065e56611f93",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "949b29b7bf4ca389a1899cee",
-        "title": "Mary y Max DOB",
-        "start": "2026-11-15T12:30:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55046&visLang=1",
-        "description": "Zona: Churubusco",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -1777,24 +1579,6 @@
         "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16775&visLang=1",
         "description": "Zona: Chapultepec",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "f91ea1701e0f29c4272d0338f545a96a@mexico-city-cinema-calendar",
-      "fingerprint": "ad225cfa5b6628b68b78d0e957f048f115eb0aea8e796445d7f7be6112010c87",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "746a276978da171d8cc0da51",
-        "title": "Mi vecino Totoro DOB",
-        "start": "2026-11-15T11:00:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55085&visLang=1",
-        "description": "Zona: Churubusco",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -2090,24 +1874,6 @@
       }
     },
     {
-      "uid": "c64436ccda5456ecf5d9c3284f9d22ab@mexico-city-cinema-calendar",
-      "fingerprint": "5b3b7352093516a9ec59ee7f221cf9de65e26838074403d77274056686095eaa",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "a41f30647141b88d9118cebd",
-        "title": "Shaun el cordero: El monstruo de Mossy Bottom",
-        "start": "2026-11-15T12:20:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55059&visLang=1",
-        "description": "Zona: Churubusco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "fcad182a25da8846a09ed08bc9f49405@mexico-city-cinema-calendar",
       "fingerprint": "9505a81ea5617df59a04058b78520b981c7c90e5d9fbf1436126985da2c91eaf",
       "event": {
@@ -2281,42 +2047,6 @@
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/tierra-de-mi-padre-fatherland-2165",
         "description": "Zona: Roma Sur",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "0b76d7f2ba3116df1242159f9eb7d59a@mexico-city-cinema-calendar",
-      "fingerprint": "ee79d5b8832bd4c0876c861bc93c1929b1d216251dc0b1ddd390057382214e8b",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "35bc19ece6d51c52e224b0e0",
-        "title": "Wildwood: El Bosque Salvaje DOB",
-        "start": "2026-11-15T12:40:00-06:00",
-        "venue": "Cineteca Nacional Chapultepec",
-        "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16778&visLang=1",
-        "description": "Zona: Chapultepec",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "2b49e0c4b12c2681da4a8987d6212b26@mexico-city-cinema-calendar",
-      "fingerprint": "631719b0f6bc361c2b69173956346cfa61294caacd8fb85c18f742b375dd3cc9",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "220538d2ee012557642e85c9",
-        "title": "Wildwood: El Bosque Salvaje DOB",
-        "start": "2026-11-15T12:00:00-06:00",
-        "venue": "Cineteca Nacional de las Artes",
-        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
-        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55083&visLang=1",
-        "description": "Zona: Churubusco",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -8966,42 +8696,6 @@
       }
     },
     {
-      "uid": "348101d4d298bd0cce98fa7e63927759@mexico-city-cinema-calendar",
-      "fingerprint": "0b1ce1aa98222df45c23ddca5f2a92feb8ef8293345581235e068627da817ee7",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "215bb6d59c53c59eab43ae7d",
-        "title": "Boca Vieja",
-        "start": "2026-11-19T18:30:00-06:00",
-        "venue": "Cinematógrafo del Chopo",
-        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Santa María la Ribera",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "547bad20b5fc640937c0b262ca1683c9@mexico-city-cinema-calendar",
-      "fingerprint": "9fd7fcca2a6cd502a896415f1ac77d22eccd0ed5cd5d785940059ddfdd8a0629",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "bd09b74577855b319f80a152",
-        "title": "Boca Vieja",
-        "start": "2026-11-19T18:30:00-06:00",
-        "venue": "Sala Carlos Monsiváis · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "0b02afddaa0685aac310a1cdddafac64@mexico-city-cinema-calendar",
       "fingerprint": "23b721d0300250cca9b3343d644e8e7be2909e7c74e1542717c8421eef47a31f",
       "event": {
@@ -9236,24 +8930,6 @@
       }
     },
     {
-      "uid": "ce6d411d8bdb4df5e86b8199edf4895d@mexico-city-cinema-calendar",
-      "fingerprint": "74bb8be39bc668bf250f4319e133fa9b4f1edb9ad7cdef501f50a96c4a9d99c3",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "a427df0e66dda5a6c1885030",
-        "title": "Cocodrilos / Crocodiles",
-        "start": "2026-11-19T17:00:00-06:00",
-        "venue": "Sala José Revueltas · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "0c3bd4ff597186ff53da18845dd202e8@mexico-city-cinema-calendar",
       "fingerprint": "3289dd59051bf378fd909cb4866b23bb57c2cecaf0cb9c5677621591f313daf5",
       "event": {
@@ -9463,24 +9139,6 @@
         "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55276&visLang=1",
         "description": "Zona: Churubusco",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "cedb1485a8ad847ce97817c68e120dfe@mexico-city-cinema-calendar",
-      "fingerprint": "49c597a4cb05ebe85f42782f59ff075ad9f666c068153fab2a8a05023d46751c",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "3df971c1d025030fdaf9483b",
-        "title": "El círculo eterno: Eisenstein en México",
-        "start": "2026-11-19T17:30:00-06:00",
-        "venue": "Sala Julio Bracho · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -10748,24 +10406,6 @@
       }
     },
     {
-      "uid": "fb90145616b9e875f10d9e295a27b15c@mexico-city-cinema-calendar",
-      "fingerprint": "b6a681386723be33e04223a09aad6546b6a840b54ca1e75f03dcd4602203afdc",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "45034c87e9fad75ea4a15951",
-        "title": "Río de Sapos",
-        "start": "2026-11-19T16:30:00-06:00",
-        "venue": "Cinematógrafo del Chopo",
-        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Santa María la Ribera",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "455120225aa8247e9eeb7bf4873e6c63@mexico-city-cinema-calendar",
       "fingerprint": "2c195ca8b2b2c4dd018822a58fa5763384082a040ae26e2c950dcd0371d0f82c",
       "event": {
@@ -11180,42 +10820,6 @@
       }
     },
     {
-      "uid": "17789ead3bb2bdda88e3efb6846a0330@mexico-city-cinema-calendar",
-      "fingerprint": "107963a919c22793360d58dbd2b58326bc8deac63cae671ff038b7a98b417b04",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "764962e106e6e762624c978f",
-        "title": "Boca Vieja",
-        "start": "2026-11-20T16:30:00-06:00",
-        "venue": "Cinematógrafo del Chopo",
-        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Santa María la Ribera",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "42ace057257ad26c34ad52ab02d49f88@mexico-city-cinema-calendar",
-      "fingerprint": "f23a608f729904491cddf7dc716d5e233e707ed426c7fabddd1e4b51efee32b2",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "9bdf034ad76712080264797f",
-        "title": "Boca Vieja",
-        "start": "2026-11-20T16:30:00-06:00",
-        "venue": "Sala Carlos Monsiváis · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "71d733a049198080e63e03e1a51ff67d@mexico-city-cinema-calendar",
       "fingerprint": "acca220821f06c1ebc5efbc8a3dfbf0707c7270f1560cfd7ae65af3342a08eda",
       "event": {
@@ -11335,96 +10939,6 @@
         "address": "República de Cuba $43, Centro Histórico de la CDMX, Alcaldía Cuauhtémoc, CP 06000 CDMX",
         "url": "https://cineenlaciudad.cdmx.gob.mx/pelicula/el-cine-soy-yo/",
         "description": "Zona: Cuauhtémoc",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "11eac225e8e6874395aa28917c4a03b0@mexico-city-cinema-calendar",
-      "fingerprint": "38e41e695e0ffda734063b59cbfd170fd948e5a6690bf16b35883edde703cb06",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "6bf120738533d99f9dd8051f",
-        "title": "El jardín que soñamos",
-        "start": "2026-11-20T12:30:00-06:00",
-        "venue": "Sala Julio Bracho · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "b2e341de1336a8d60f3e12034333f957@mexico-city-cinema-calendar",
-      "fingerprint": "65c1a2b134c6466ccbd00edc99b927579a2786cfb9c7d9f1f4ceac218efc87a1",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "f9c2bd14f1b95670d718d339",
-        "title": "El jardín que soñamos",
-        "start": "2026-11-20T16:30:00-06:00",
-        "venue": "Sala Julio Bracho · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "f866841256b10edf4efc01c5f971093e@mexico-city-cinema-calendar",
-      "fingerprint": "3b16f946e14d628132f1e25e6e7fd729ad256254e7f7111047079c38cf92fa88",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "625dba89d47e1cae8eb80f73",
-        "title": "El jardín que soñamos",
-        "start": "2026-11-20T18:30:00-06:00",
-        "venue": "Sala Julio Bracho · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "ca333eff455f9db64111c22f9b5d87b8@mexico-city-cinema-calendar",
-      "fingerprint": "4225bb8ca70b82c46d8f9c856c679cc5b28049cdb6275ab4536f69f66aff0be6",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "464df020abd768f14217dd04",
-        "title": "Entre tierras",
-        "start": "2026-11-20T18:30:00-06:00",
-        "venue": "Cinematógrafo del Chopo",
-        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Santa María la Ribera",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "71e5c6991116c8ba2fdad6c010227618@mexico-city-cinema-calendar",
-      "fingerprint": "adae5b55d7bafa71564bfcff66f77e204dbe4b17cb46b29876e1413a9dadb70d",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "4db7e1a336825a401eb37363",
-        "title": "Entre tierras",
-        "start": "2026-11-20T18:30:00-06:00",
-        "venue": "Sala Carlos Monsiváis · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -11630,24 +11144,6 @@
       }
     },
     {
-      "uid": "4a2ff9bc59819efebae4485978df8b2e@mexico-city-cinema-calendar",
-      "fingerprint": "5f0d1d3bd26b632fdbc912b53ed1eac0ba3fe1333d4b5bd4f1f69628dd95e96b",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "aeaf2e846d38a59c1c906e15",
-        "title": "Mano propia",
-        "start": "2026-11-20T18:30:00-06:00",
-        "venue": "Sala José Revueltas · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "1045eebf9ab7130a42b7850b4cb46358@mexico-city-cinema-calendar",
       "fingerprint": "532c82b273b9d62208aba789113a1806579a1e82742f6d69dd4e8d1a47d0a2b0",
       "event": {
@@ -11666,42 +11162,6 @@
       }
     },
     {
-      "uid": "923b3ec07acaaefe09383c83fd603271@mexico-city-cinema-calendar",
-      "fingerprint": "eb76309c434471f8ccc3e0543513949043b26ae69bb8519109d8eddfd3c50169",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "2c5f8cf249d6119a5e016979",
-        "title": "NAZA",
-        "start": "2026-11-20T12:30:00-06:00",
-        "venue": "Sala José Revueltas · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "338498023cf0107a254a95a9f1d9a89f@mexico-city-cinema-calendar",
-      "fingerprint": "6385e756edbe51e705bd62c5e5b30eb959c11d3994b619d28ac4d5e3ec4b1623",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "795e6b93faf570ab93ae42d6",
-        "title": "NAZA",
-        "start": "2026-11-20T16:30:00-06:00",
-        "venue": "Sala José Revueltas · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "19b3d578e54f5be1127bd90ac940d831@mexico-city-cinema-calendar",
       "fingerprint": "8ca30ebc5d76fbe6193992ba12e37576544a741335795a70021bd0e0b8c059cc",
       "event": {
@@ -11713,42 +11173,6 @@
         "address": "Museo de Culturas Populares. Hidalgo 289, Col. del Carmen, Alcaldía Coyoacán,  CP 04100 CDMX",
         "url": "https://cineenlaciudad.cdmx.gob.mx/pelicula/ninos-de-las-brisas/",
         "description": "Zona: Coyoacán",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "dffe74fb66cb16613dd365be547bb208@mexico-city-cinema-calendar",
-      "fingerprint": "7320820509ec57b6a07a86b4df1ac51430fb9dccfcc5ecdb8aaa1f4f3df1ad6f",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "289553b3ff276f2a00543f27",
-        "title": "Río de sapos",
-        "start": "2026-11-20T12:30:00-06:00",
-        "venue": "Cinematógrafo del Chopo",
-        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Santa María la Ribera",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "1ad73017c4bebc7a7e0caedbe4243f70@mexico-city-cinema-calendar",
-      "fingerprint": "ba8b7a21b9e524caca73884b4ef7d08ebc3b6d5c1b7ae9faa81f4fb618adb247",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "af5c23529e9b73228cc65b04",
-        "title": "Río de sapos",
-        "start": "2026-11-20T12:30:00-06:00",
-        "venue": "Sala Carlos Monsiváis · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -11839,42 +11263,6 @@
         "address": "Av. Venustiano Carranza N°54, Col. Cuautepec de Madero, Alcaldía Gustavo A. Madero, CP 07200 CDMX",
         "url": "https://cineenlaciudad.cdmx.gob.mx/pelicula/amelie-y-los-secretos-de-la-lluvia/",
         "description": "Zona: Gustavo A. Madero",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "360a3fc43d7f673c890c9452e342c300@mexico-city-cinema-calendar",
-      "fingerprint": "2abcd5628cb2688a2cb0e2adcaafe8ff0cdc63de2bce996d0643554b12661a76",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "b3fd096a722b8d79b53301db",
-        "title": "Boca Vieja",
-        "start": "2026-11-21T18:30:00-06:00",
-        "venue": "Cinematógrafo del Chopo",
-        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Santa María la Ribera",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "2e3c8f934ecf64704a5d6efcd7157a0f@mexico-city-cinema-calendar",
-      "fingerprint": "989f08cf57434129a19c4af6fdc7e2bce20b00913973b4a5c26a5f220ea0c45d",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "b4134f0217bcbe0bec80c041",
-        "title": "Boca Vieja",
-        "start": "2026-11-21T18:30:00-06:00",
-        "venue": "Sala Carlos Monsiváis · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -12080,132 +11468,6 @@
       }
     },
     {
-      "uid": "3eec4f113b99d65aea7487379528bbf7@mexico-city-cinema-calendar",
-      "fingerprint": "161c3a0c11324d22bfd44ade3e668865b88a9bb95f42e3a3a71a3bccb8f7f1d3",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "7d92822662ef52a2e37e7efd",
-        "title": "Look Back",
-        "start": "2026-11-21T12:00:00-06:00",
-        "venue": "Sala Julio Bracho · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "191acf0c663cc958abd1c8ee8b0a403b@mexico-city-cinema-calendar",
-      "fingerprint": "5406f095e13caecd8dfd8c323bf212cda17a1339f429a3323a643daa4390eb3e",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "d03a28153807343508d82449",
-        "title": "Look Back",
-        "start": "2026-11-21T16:30:00-06:00",
-        "venue": "Sala Julio Bracho · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "4f1e7a3fe65474793a2d96cfa536fec3@mexico-city-cinema-calendar",
-      "fingerprint": "477b5cce10e9e59bd13ef196a5581f615c1b3c2800fb20f9c833d5eb05866160",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "d37b82e8593dadb7d6a6f515",
-        "title": "Look Back",
-        "start": "2026-11-21T18:30:00-06:00",
-        "venue": "Sala Julio Bracho · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "74bb9b4f1137dcf25495b35bbe498d00@mexico-city-cinema-calendar",
-      "fingerprint": "29b1cb074f4376b46579ecb5a052f96a6d20c86d5f0d338336f7c51fad93e1cf",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "a9243d28e836f80e1eabcffd",
-        "title": "Mano propia",
-        "start": "2026-11-21T12:30:00-06:00",
-        "venue": "Sala José Revueltas · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "25bd625811db8e86076c1a996bbd3720@mexico-city-cinema-calendar",
-      "fingerprint": "1e507cff25b0b063bd2b475d3109d2d68a45b01d0372245726c6c6722437adb8",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "9b3c9e860d28f85793ceb719",
-        "title": "NAZA",
-        "start": "2026-11-21T16:30:00-06:00",
-        "venue": "Sala José Revueltas · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "00b7a7470fa7631220fc87c7d85aea3d@mexico-city-cinema-calendar",
-      "fingerprint": "b30166d96adabbf1274106e0030dfc7e2f1a8ea0d3c31dd445d9c772658af940",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "edb00ad1504fd604a76daa98",
-        "title": "NAZA",
-        "start": "2026-11-21T18:30:00-06:00",
-        "venue": "Sala José Revueltas · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
-      "uid": "3671632411e03904b5691c198ec2b407@mexico-city-cinema-calendar",
-      "fingerprint": "7d781d04de788eaa8642c0db51fce37a44099f231ba364956e350304a7372bbb",
-      "event": {
-        "source": "hay-cine-cdmx",
-        "source_id": "417195409797c000c5d9e269",
-        "title": "Río de sapos",
-        "start": "2026-11-21T16:30:00-06:00",
-        "venue": "Sala Carlos Monsiváis · UNAM",
-        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
-        "url": "https://boletoscultura.unam.mx/",
-        "description": "Zona: Ciudad Universitaria",
-        "runtime_minutes": null,
-        "language": "",
-        "format": "",
-        "status": "CONFIRMED"
-      }
-    },
-    {
       "uid": "ad961c5efa0b6f6de131a596a8bf9200@mexico-city-cinema-calendar",
       "fingerprint": "cc056cf0fee5ace6a2155fc997a1fcf7a0e9205cbe0a3da7ae016850c53cf739",
       "event": {
@@ -12379,6 +11641,24 @@
         "address": "Av. México Coyoacán 389, Xoco, Benito Juárez, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=51445&visLang=1",
         "description": "Zona: Xoco",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CONFIRMED"
+      }
+    },
+    {
+      "uid": "30abaadbed580a1d1425cff47b75a068@mexico-city-cinema-calendar",
+      "fingerprint": "a581d3c92e2015c76f560e62c0b02381b9d9f98870ef4ad990de02daeef574e9",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "caf3ab6145704936708b9ac0",
+        "title": "Entre tierras",
+        "start": "2026-11-22T16:30:00-06:00",
+        "venue": "Sala Carlos Monsiváis · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -15299,6 +14579,744 @@
         "language": "",
         "format": "",
         "status": "CONFIRMED"
+      }
+    },
+    {
+      "uid": "46a75bdfe4855cbc8b1090426d226dc9@mexico-city-cinema-calendar",
+      "fingerprint": "b31934282426da3b61e51959850ebb14acc9ba1b939a54cc6daceb32fdbc1cbf",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "0b6b9cbb77e277b8a7c5a7f1",
+        "title": "Caballo salvaje nueve",
+        "start": "2026-11-15T11:10:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55089&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "35e7fec3b2ea247af37038475b5eda80@mexico-city-cinema-calendar",
+      "fingerprint": "d2374f38ebb3c381aedf3733a822f11eb438559f6f46784c17c4217ac3e86ebb",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "763e26c00fe7e41f198eca13",
+        "title": "Ciudad de muertos",
+        "start": "2026-11-15T12:05:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55090&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "e5b0136cb50f56d5cff3774d96ebd605@mexico-city-cinema-calendar",
+      "fingerprint": "588749d1796700bca3fefe89d1e0dc34ae7b8da4b8c3364570013fe56723583b",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "3b90d1cda23477ed07eb09b0",
+        "title": "Digger",
+        "start": "2026-11-15T12:30:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55072&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "159780040cb364e51ad533a43258da54@mexico-city-cinema-calendar",
+      "fingerprint": "d22fc30f6e8bd6b491b4bf07902568bcc78f4e2bd1756965eb03491164a142b9",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "b49a0802946b17b62fc43e94",
+        "title": "El árbol mágico",
+        "start": "2026-11-15T11:10:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55086&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "39eb7dfd0e0368cd211251c63702421a@mexico-city-cinema-calendar",
+      "fingerprint": "d1a32db821d9476630f49c10ed7bf072e26a0994f8bdb5e35adfa138c908a348",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "4735859b753723c702ac9ce8",
+        "title": "El poder de la red",
+        "start": "2026-11-15T12:00:00-06:00",
+        "venue": "Cineteca Nacional Chapultepec",
+        "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16766&visLang=1",
+        "description": "Zona: Chapultepec\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "4601150a5e66e420a7e13dfe74c87ce0@mexico-city-cinema-calendar",
+      "fingerprint": "e44e1979f15e20df5e8c30217735665e46367b95ae346346819a1f3a3c2029c8",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "f70608a03883dc1de1bf9116",
+        "title": "Itsanaxa, la cosecha sagrada",
+        "start": "2026-11-15T11:50:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55084&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "cd86a79ce6acdee209f1a122e147374f@mexico-city-cinema-calendar",
+      "fingerprint": "7f36fa07ad5354a778598ae15ea684f47537529275ebb2ee8fcffface6612b91",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "389930d3ec7f98f55b1d511d",
+        "title": "La pequeña hermana",
+        "start": "2026-11-15T11:00:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55087&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "19337c5b1ce835e545065d1e6e325170@mexico-city-cinema-calendar",
+      "fingerprint": "71a0b63ae38bb679851a773a2f37460ba28b139ca6a4e7fb9948b3b340fc4872",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "c77fc233466e59e92a22460c",
+        "title": "La venganza del Charro Negro",
+        "start": "2026-11-15T11:40:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55091&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "1502dab70d949909a018c854f63f7cca@mexico-city-cinema-calendar",
+      "fingerprint": "ed976696727efabe51ec159dd5281e7192eabf4afb85947cc182327ee9a6e798",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "3d17db200136f7d0a13c716b",
+        "title": "Los Doors",
+        "start": "2026-11-15T11:20:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55088&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "f91076ea90dcb83d4c24ac43944cc34a@mexico-city-cinema-calendar",
+      "fingerprint": "b7df6f88ee9997d6c91ce46205f966085a2c0c745b42577cc8bc7df3878c5c45",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "c6b4612f01f146c430331ba1",
+        "title": "Mary y Max DOB",
+        "start": "2026-11-15T12:10:00-06:00",
+        "venue": "Cineteca Nacional Chapultepec",
+        "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16756&visLang=1",
+        "description": "Zona: Chapultepec\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "a52648f55c6652f70613168ae307623f@mexico-city-cinema-calendar",
+      "fingerprint": "f31159b98055b46b29cdb2b52ec77422c72feab86be9468e5810a198d2838540",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "949b29b7bf4ca389a1899cee",
+        "title": "Mary y Max DOB",
+        "start": "2026-11-15T12:30:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55046&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "f91ea1701e0f29c4272d0338f545a96a@mexico-city-cinema-calendar",
+      "fingerprint": "827dace801e422f976cf7d207c91bf20a3c9d332a6db9782b0433b6765ecd673",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "746a276978da171d8cc0da51",
+        "title": "Mi vecino Totoro DOB",
+        "start": "2026-11-15T11:00:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55085&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "c64436ccda5456ecf5d9c3284f9d22ab@mexico-city-cinema-calendar",
+      "fingerprint": "3e546cb428d36342b2d57a3a31fdd45ae7025a24dba5acfce75f9749cde8a79c",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "a41f30647141b88d9118cebd",
+        "title": "Shaun el cordero: El monstruo de Mossy Bottom",
+        "start": "2026-11-15T12:20:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55059&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "0b76d7f2ba3116df1242159f9eb7d59a@mexico-city-cinema-calendar",
+      "fingerprint": "59629861d9a63adb0ae1ac7bc9aa7448cbef995fbbc0fb6b94068f060de1225d",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "35bc19ece6d51c52e224b0e0",
+        "title": "Wildwood: El Bosque Salvaje DOB",
+        "start": "2026-11-15T12:40:00-06:00",
+        "venue": "Cineteca Nacional Chapultepec",
+        "address": "Av. Vasco de Quiroga 1401, Santa Fe, Álvaro Obregón, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=16778&visLang=1",
+        "description": "Zona: Chapultepec\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "2b49e0c4b12c2681da4a8987d6212b26@mexico-city-cinema-calendar",
+      "fingerprint": "2fa1bda090a457f28c0bd1e6523cda9b43a03a088859ca4be3fa46a081262ffb",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "220538d2ee012557642e85c9",
+        "title": "Wildwood: El Bosque Salvaje DOB",
+        "start": "2026-11-15T12:00:00-06:00",
+        "venue": "Cineteca Nacional de las Artes",
+        "address": "Av. Río Churubusco 79, Country Club Churubusco, Coyoacán, CDMX",
+        "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=55083&visLang=1",
+        "description": "Zona: Churubusco\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "348101d4d298bd0cce98fa7e63927759@mexico-city-cinema-calendar",
+      "fingerprint": "8dff02efba36325c963c71d38ea057392a3481a42b33cdce4b1f2c06cc63cca9",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "215bb6d59c53c59eab43ae7d",
+        "title": "Boca Vieja",
+        "start": "2026-11-19T18:30:00-06:00",
+        "venue": "Cinematógrafo del Chopo",
+        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Santa María la Ribera\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "547bad20b5fc640937c0b262ca1683c9@mexico-city-cinema-calendar",
+      "fingerprint": "285796e37c255fe5e2558ca5d3da00b073aa7a51d349574bf8fd4aab42a101a0",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "bd09b74577855b319f80a152",
+        "title": "Boca Vieja",
+        "start": "2026-11-19T18:30:00-06:00",
+        "venue": "Sala Carlos Monsiváis · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "ce6d411d8bdb4df5e86b8199edf4895d@mexico-city-cinema-calendar",
+      "fingerprint": "ff2eee35ec3917691ba40ea20005238fa866458465b64788ce3baedf0c6fd145",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "a427df0e66dda5a6c1885030",
+        "title": "Cocodrilos / Crocodiles",
+        "start": "2026-11-19T17:00:00-06:00",
+        "venue": "Sala José Revueltas · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "cedb1485a8ad847ce97817c68e120dfe@mexico-city-cinema-calendar",
+      "fingerprint": "b2536cc6eaf7c8b043fd1da970ee544f425a79427b6c8508a6fe371bc13d67b6",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "3df971c1d025030fdaf9483b",
+        "title": "El círculo eterno: Eisenstein en México",
+        "start": "2026-11-19T17:30:00-06:00",
+        "venue": "Sala Julio Bracho · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "fb90145616b9e875f10d9e295a27b15c@mexico-city-cinema-calendar",
+      "fingerprint": "7e1e6601829e34a332898551d1247441db4268d53bb59d5c12aeef16d327c211",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "45034c87e9fad75ea4a15951",
+        "title": "Río de Sapos",
+        "start": "2026-11-19T16:30:00-06:00",
+        "venue": "Cinematógrafo del Chopo",
+        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Santa María la Ribera\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "17789ead3bb2bdda88e3efb6846a0330@mexico-city-cinema-calendar",
+      "fingerprint": "25a2922146a938afc6c7c29b8b7d2241426bcad7c712c88a7ce6d56c90338cba",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "764962e106e6e762624c978f",
+        "title": "Boca Vieja",
+        "start": "2026-11-20T16:30:00-06:00",
+        "venue": "Cinematógrafo del Chopo",
+        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Santa María la Ribera\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "42ace057257ad26c34ad52ab02d49f88@mexico-city-cinema-calendar",
+      "fingerprint": "a82cd65dccf85abbe1bcf69f88cf14759a52a52588a2d01a0bd1bd7cfd79996c",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "9bdf034ad76712080264797f",
+        "title": "Boca Vieja",
+        "start": "2026-11-20T16:30:00-06:00",
+        "venue": "Sala Carlos Monsiváis · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "11eac225e8e6874395aa28917c4a03b0@mexico-city-cinema-calendar",
+      "fingerprint": "767e549fabc2efef9c43f8f31d55bd5af3a631cb01410ef5c5731d2abda3b544",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "6bf120738533d99f9dd8051f",
+        "title": "El jardín que soñamos",
+        "start": "2026-11-20T12:30:00-06:00",
+        "venue": "Sala Julio Bracho · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "b2e341de1336a8d60f3e12034333f957@mexico-city-cinema-calendar",
+      "fingerprint": "456767f0d6cc26af5e99a397bfb9068db4ee3a14a4ef5efa9de7b71c5a3da6b9",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "f9c2bd14f1b95670d718d339",
+        "title": "El jardín que soñamos",
+        "start": "2026-11-20T16:30:00-06:00",
+        "venue": "Sala Julio Bracho · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "f866841256b10edf4efc01c5f971093e@mexico-city-cinema-calendar",
+      "fingerprint": "b1ae69795792516f42b30a53ab14f7c858a246c1303ad73b712b6e56748004af",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "625dba89d47e1cae8eb80f73",
+        "title": "El jardín que soñamos",
+        "start": "2026-11-20T18:30:00-06:00",
+        "venue": "Sala Julio Bracho · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "ca333eff455f9db64111c22f9b5d87b8@mexico-city-cinema-calendar",
+      "fingerprint": "a10a060ce4dd2bce87afcb7d89701f1d7211c881c6d97723eb432c0c6c7889d1",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "464df020abd768f14217dd04",
+        "title": "Entre tierras",
+        "start": "2026-11-20T18:30:00-06:00",
+        "venue": "Cinematógrafo del Chopo",
+        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Santa María la Ribera\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "71e5c6991116c8ba2fdad6c010227618@mexico-city-cinema-calendar",
+      "fingerprint": "c94588b27b932b4c555529e5dd6727b5caea875fbacdc17bc55c8ebb953be6e9",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "4db7e1a336825a401eb37363",
+        "title": "Entre tierras",
+        "start": "2026-11-20T18:30:00-06:00",
+        "venue": "Sala Carlos Monsiváis · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "4a2ff9bc59819efebae4485978df8b2e@mexico-city-cinema-calendar",
+      "fingerprint": "eaa296c143c9186110be0c9ca52d1aae5a414bba8bbc17793086bc3e1a032c99",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "aeaf2e846d38a59c1c906e15",
+        "title": "Mano propia",
+        "start": "2026-11-20T18:30:00-06:00",
+        "venue": "Sala José Revueltas · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "923b3ec07acaaefe09383c83fd603271@mexico-city-cinema-calendar",
+      "fingerprint": "40d01a4a2e610ce9ee61df30940faddfbe5c2721c83ed443cff04ebb074ed718",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "2c5f8cf249d6119a5e016979",
+        "title": "NAZA",
+        "start": "2026-11-20T12:30:00-06:00",
+        "venue": "Sala José Revueltas · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "338498023cf0107a254a95a9f1d9a89f@mexico-city-cinema-calendar",
+      "fingerprint": "69fe21909212c416f3c78ecee2289aadab990664675da1c44d24206faff63f2d",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "795e6b93faf570ab93ae42d6",
+        "title": "NAZA",
+        "start": "2026-11-20T16:30:00-06:00",
+        "venue": "Sala José Revueltas · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "dffe74fb66cb16613dd365be547bb208@mexico-city-cinema-calendar",
+      "fingerprint": "0d5a87010c73c24877b4de2b45a77b98c8c08328bd26c5e0dc05f5252851ffc5",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "289553b3ff276f2a00543f27",
+        "title": "Río de sapos",
+        "start": "2026-11-20T12:30:00-06:00",
+        "venue": "Cinematógrafo del Chopo",
+        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Santa María la Ribera\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "1ad73017c4bebc7a7e0caedbe4243f70@mexico-city-cinema-calendar",
+      "fingerprint": "47a43e129995cc47693a742bbd1639f516df740c2ba13bbbf0ea7996b0cc314f",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "af5c23529e9b73228cc65b04",
+        "title": "Río de sapos",
+        "start": "2026-11-20T12:30:00-06:00",
+        "venue": "Sala Carlos Monsiváis · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "360a3fc43d7f673c890c9452e342c300@mexico-city-cinema-calendar",
+      "fingerprint": "dcaa176bf224fb6c7d738f7f649e4253d116864e7c5c6b0f2d77820f05408d1a",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "b3fd096a722b8d79b53301db",
+        "title": "Boca Vieja",
+        "start": "2026-11-21T18:30:00-06:00",
+        "venue": "Cinematógrafo del Chopo",
+        "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Santa María la Ribera\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "2e3c8f934ecf64704a5d6efcd7157a0f@mexico-city-cinema-calendar",
+      "fingerprint": "39ce15902fc2df33c487b4cd7a69495241c100468736b9b14018a09efb86ca9e",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "b4134f0217bcbe0bec80c041",
+        "title": "Boca Vieja",
+        "start": "2026-11-21T18:30:00-06:00",
+        "venue": "Sala Carlos Monsiváis · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "3eec4f113b99d65aea7487379528bbf7@mexico-city-cinema-calendar",
+      "fingerprint": "c3e98cd4b2d5a80044fbb06ceaf5dfbfbfe7071ac36ce1f734ae0414e0bbaf58",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "7d92822662ef52a2e37e7efd",
+        "title": "Look Back",
+        "start": "2026-11-21T12:00:00-06:00",
+        "venue": "Sala Julio Bracho · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "191acf0c663cc958abd1c8ee8b0a403b@mexico-city-cinema-calendar",
+      "fingerprint": "abe43b6ed29052d856a34699d294e9fb29cc79cf17b5fe71868bae1f63d321a2",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "d03a28153807343508d82449",
+        "title": "Look Back",
+        "start": "2026-11-21T16:30:00-06:00",
+        "venue": "Sala Julio Bracho · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "4f1e7a3fe65474793a2d96cfa536fec3@mexico-city-cinema-calendar",
+      "fingerprint": "b4a43b6c9cc94b317249ac2f8c6391b9ec218421fdbb5d2b81e8c9a156e8b060",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "d37b82e8593dadb7d6a6f515",
+        "title": "Look Back",
+        "start": "2026-11-21T18:30:00-06:00",
+        "venue": "Sala Julio Bracho · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "74bb9b4f1137dcf25495b35bbe498d00@mexico-city-cinema-calendar",
+      "fingerprint": "5d5549ff7551c635b193cf6e91745cf2dfa9739a1d7c570cdefefb8e2e3b1626",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "a9243d28e836f80e1eabcffd",
+        "title": "Mano propia",
+        "start": "2026-11-21T12:30:00-06:00",
+        "venue": "Sala José Revueltas · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "25bd625811db8e86076c1a996bbd3720@mexico-city-cinema-calendar",
+      "fingerprint": "e2c494d59b3815881c804d0e6d1038f26b8ad2b7b9f7da7a92bce195e845eb82",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "9b3c9e860d28f85793ceb719",
+        "title": "NAZA",
+        "start": "2026-11-21T16:30:00-06:00",
+        "venue": "Sala José Revueltas · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "00b7a7470fa7631220fc87c7d85aea3d@mexico-city-cinema-calendar",
+      "fingerprint": "a5d1b258f7fc8eec5b27487d7f4a3a0739e212abea212293685c532b86911699",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "edb00ad1504fd604a76daa98",
+        "title": "NAZA",
+        "start": "2026-11-21T18:30:00-06:00",
+        "venue": "Sala José Revueltas · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
+      }
+    },
+    {
+      "uid": "3671632411e03904b5691c198ec2b407@mexico-city-cinema-calendar",
+      "fingerprint": "2493e05e8ec1b80d515058037987f14e5a36e038be44aa117577eee53f13bc0f",
+      "event": {
+        "source": "hay-cine-cdmx",
+        "source_id": "417195409797c000c5d9e269",
+        "title": "Río de sapos",
+        "start": "2026-11-21T16:30:00-06:00",
+        "venue": "Sala Carlos Monsiváis · UNAM",
+        "address": "Centro Cultural Universitario, Insurgentes Sur 3000, Coyoacán, CDMX",
+        "url": "https://boletoscultura.unam.mx/",
+        "description": "Zona: Ciudad Universitaria\nRemoved from source schedule.",
+        "runtime_minutes": null,
+        "language": "",
+        "format": "",
+        "status": "CANCELLED"
       }
     },
     {
@@ -397803,7 +397821,7 @@
     },
     {
       "uid": "c2cc77d9a19e5e5094b9dc716d63c9bf@mexico-city-cinema-calendar",
-      "fingerprint": "a6c57da17c3a2653666a86c7f88a1b9f1fcaf11f6c8073be2bee2009682f133f",
+      "fingerprint": "6f9f0d5b1c285ee33e2e4844f5a4bc00a4aa0a1c600ffa44d4179f7761a229d2",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "206f40138666c93c835b057a",
@@ -397812,7 +397830,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/hasta-un-momento-mas-tarde-2198",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -397821,7 +397839,7 @@
     },
     {
       "uid": "c2edb72e0ab33526e32425e3a3a1ca78@mexico-city-cinema-calendar",
-      "fingerprint": "4244caa215f878769c55ec651a221167fab81e11b6cc59415792c63554085ac2",
+      "fingerprint": "422a95ba2dd1727c4741f8d4f06b0b13b58f97f0064590c5e33ca82661bbc08d",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "f3f84256cf017e6bbc128ebc",
@@ -397830,7 +397848,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/minotauro-2174",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -397839,7 +397857,7 @@
     },
     {
       "uid": "11eec72e85b2f9d87a84e04f25073c12@mexico-city-cinema-calendar",
-      "fingerprint": "e7686bd58191af2348a9335ccdd27514584ba895ff15d04d71559ab496f544d3",
+      "fingerprint": "2f1c496de98210b060c44563854725343d0efe7df13a8bf7c6f0c51ac187907f",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "0fc44bfa26676c947b611699",
@@ -397848,7 +397866,7 @@
         "venue": "Cineteca Nacional México",
         "address": "Av. México Coyoacán 389, Xoco, Benito Juárez, CDMX",
         "url": "https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=51469&visLang=1",
-        "description": "Zona: Xoco\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Xoco\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410403,7 +410421,7 @@
     },
     {
       "uid": "f8ffa534f4fcf8abeefc4a7309e25ee4@mexico-city-cinema-calendar",
-      "fingerprint": "c08aef8ac3cf0bcc21f879120f1c6c90881d4b3d57ad2e08d4ef31029d38cffe",
+      "fingerprint": "a6f1f7075ebd145ca3eb4a2d99cd15a1edb5cb13aeb39d7dc011fe4b87f54219",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "726b9468f339b587ed83878f",
@@ -410412,7 +410430,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/la-pequena-hermana-2155",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410421,7 +410439,7 @@
     },
     {
       "uid": "4f4a5ac8b81ed1c5519a4eebec3607f7@mexico-city-cinema-calendar",
-      "fingerprint": "a9459a102f857ec42527ed15e91e4890ddac38bdfb7ced2d54f67ca789d940eb",
+      "fingerprint": "c0b731a613010853ed2bb68f5270bf581d899f4d06ea292d03deccd9d12375b3",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "fdb035cfc23a2654c0c0140c",
@@ -410430,7 +410448,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/minotauro-2174",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410439,7 +410457,7 @@
     },
     {
       "uid": "83b1ac0f71c73dce6bd7f855063dddfe@mexico-city-cinema-calendar",
-      "fingerprint": "38f4270230ae4be1686cb22468ae36fec9ee00a6f64bb5b900a2bed362505aef",
+      "fingerprint": "bb661d74cdde893b9498e6809f04f16abc9e0cc04cd60eed255e50496ff63773",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "9dc058c0531f104d693040c8",
@@ -410448,7 +410466,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/ceniza-en-la-boca-2188",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410457,7 +410475,7 @@
     },
     {
       "uid": "5f01cd1c0df648a796d103b44cc44d89@mexico-city-cinema-calendar",
-      "fingerprint": "aa49ab8503f8f97b87ca2bdf9c14915c34664397ceb9b3cd3df55d6f4b9c48e7",
+      "fingerprint": "336aa2ebdb45593fa65e37942feea2660167665441eea735fbb6ed3b007bbc2d",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "658fc184b942eba391f1a9d7",
@@ -410466,7 +410484,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/minotauro-2174",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410475,7 +410493,7 @@
     },
     {
       "uid": "060b73a491aafa47c56e74d774346a14@mexico-city-cinema-calendar",
-      "fingerprint": "92463a99df2967d49872aca365d3cf84364256b003ab84b9c2712a3caa16d1b9",
+      "fingerprint": "6dfeda40e02a7b1343e60620a1ce02db9d3ae5902a78b3fe5a52efb8a7cf0253",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "e668980d355844ea661b4299",
@@ -410484,7 +410502,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/ceniza-en-la-boca-2188",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410493,7 +410511,7 @@
     },
     {
       "uid": "5673e67d7f5b498b99418e24ee4f1ef1@mexico-city-cinema-calendar",
-      "fingerprint": "6fb092dcbcf6f2a86391c7621de4eb1a621af2196cf12f7dc57ffd79aef1ec40",
+      "fingerprint": "32e23846063df863587f3064a916bd3f2ce08054847695b88aca8c7b6602e26f",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "270b1ead77b05030180f17a6",
@@ -410502,7 +410520,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/godzilla-minus-zero",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410511,7 +410529,7 @@
     },
     {
       "uid": "2a43dc32d431976f5af59fcce6438848@mexico-city-cinema-calendar",
-      "fingerprint": "b7dc1c11328f215d9f16e9bc97d0b3b2a6604b39f38d04ae330483079bc1bfa4",
+      "fingerprint": "fcd197628434fecae9a7e6dc3bb58da27011e846dfd85a5d905c45e90d84b59e",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "b43ad8ee62530f1575c7fc2d",
@@ -410520,7 +410538,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/la-pequena-hermana",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410529,7 +410547,7 @@
     },
     {
       "uid": "a1a7b557a04f92864bf4da41ca57934e@mexico-city-cinema-calendar",
-      "fingerprint": "8ab54238d1c6db51838345e3607cd8890ae3fedffe890075726ba1288e377673",
+      "fingerprint": "b4c032b14c97f1b6a26112448607fc5bcac1cbd6600d69c9c751f8720565a333",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "52d63bed1673064b0fc32d11",
@@ -410538,7 +410556,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/mary-y-max",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410547,7 +410565,7 @@
     },
     {
       "uid": "6dd075cc213b5a655f500b93ab0a6772@mexico-city-cinema-calendar",
-      "fingerprint": "9ad6b1723a18e5ee3cc86f5f1772e4764bfeb11791be0a0542fac0027a529704",
+      "fingerprint": "cfe1e39f225de7fa196e2765943815847f0fd33b7ca1026406778b9bb7d79ea1",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "7918ccf22d50acd8f529edeb",
@@ -410556,7 +410574,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/naza-2193",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410565,7 +410583,7 @@
     },
     {
       "uid": "03b7f854da1e35f6b01c9de83fa79e1d@mexico-city-cinema-calendar",
-      "fingerprint": "ef9ae60191e9da7ccb2ff7c2373dd6e2dd6e7c8dcdf14f9bf16087088bbe1341",
+      "fingerprint": "d07c4ad43b488ac182eb53d52f8e2ce0e49f0ac6fcf881b6bfc94aa3b107f69a",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "5634b9b7cca30646b23d047f",
@@ -410574,7 +410592,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/naza",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410583,7 +410601,7 @@
     },
     {
       "uid": "ee17adef32ff236cf3f7c41843eb31bd@mexico-city-cinema-calendar",
-      "fingerprint": "3a782ff2445af757f56ba6b52c753ddbd6c448aea792285e57118718ead6d42c",
+      "fingerprint": "6d66d824d65e0665b8303bfca17aa14875510456c8d4997941ce0156803ef165",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "385ab55a8bb56c4ed47e22f7",
@@ -410592,7 +410610,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/rio-de-sapos-2175",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410601,7 +410619,7 @@
     },
     {
       "uid": "f963b56abba62c5cc6af0c262940420c@mexico-city-cinema-calendar",
-      "fingerprint": "d530e53b4ee5d1108e02ff0bdc3cb47658dd8a53ba3524262c5ecab2d19c2ab9",
+      "fingerprint": "c46e37e99877b12dc3e91864511775f74ce03ebea7c6503d4fddcdd8cae773eb",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "ee4613899a41d5b710fcbc7f",
@@ -410610,7 +410628,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/su-propio-infierno",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410619,7 +410637,7 @@
     },
     {
       "uid": "9741059318e4f1d60d3e1fcc8142bac1@mexico-city-cinema-calendar",
-      "fingerprint": "2fe6c78ad69def2f4d1d0500e9704aa480b53a9e92476880cfd7d682badd5922",
+      "fingerprint": "e44dfc0bdfd72f4d012ecc09704589ed2bb7e1297ca9cdb233f2b9fe7bf787fa",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "99998166f52c6c99a4095074",
@@ -410628,7 +410646,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/tierra-de-mi-padre",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410637,7 +410655,7 @@
     },
     {
       "uid": "99a3bf8f9bc36d0dcb880ada8dcee349@mexico-city-cinema-calendar",
-      "fingerprint": "aacd3a37d5e77fae1f2b970158664db16454a3efaefb548626d4133e347c186b",
+      "fingerprint": "0c1d17fc2b89248f3f3ea9a90803fb2085498ffcfadd9873de3e7f97b50adbbc",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "85b7747f0e2bbeb08b2af0b9",
@@ -410646,7 +410664,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/ceniza-en-la-boca-2188",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410655,7 +410673,7 @@
     },
     {
       "uid": "a6b04e004d69d0605de0ac32ada99597@mexico-city-cinema-calendar",
-      "fingerprint": "6d7101fb8c30daf0bd37ff40a001bf33ed6abcab587e1f6a39683de8731c39f6",
+      "fingerprint": "ca2f411a422bd98e43fea2f49ca1acfd83398a5a7a5b36e5445033aeea2c22f4",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "a6dd78db862e9ad0ea109ef9",
@@ -410664,7 +410682,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/hope-el-primer-impacto",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410673,7 +410691,7 @@
     },
     {
       "uid": "fd861613c18abb4cb3d05132439190c5@mexico-city-cinema-calendar",
-      "fingerprint": "0484b16cddc1704ae58086ac8c61d4e301d891b0e85814a49424838a18578e7b",
+      "fingerprint": "dc26a87bab94e3074829c6a66343eaf8924c8684dbaa0df011ef8a6e98189f70",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "a777e668fadcafab5c703a2e",
@@ -410682,7 +410700,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/la-pequena-hermana",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410691,7 +410709,7 @@
     },
     {
       "uid": "d17b402a9e2318f2d4126317664ed3a9@mexico-city-cinema-calendar",
-      "fingerprint": "eff5a2c85e9fe14e0659943a02a3ebfc8986488bf14b2a9757d4867fb37c6d4f",
+      "fingerprint": "248fd74414466186a0459158d7308207c47402a61b35ca55b8a23ee227b2b8f0",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "d49b2be56c04214ea18eb201",
@@ -410700,7 +410718,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/mary-y-max",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410709,7 +410727,7 @@
     },
     {
       "uid": "337786d3383bc4bdc9d8eff0918b9236@mexico-city-cinema-calendar",
-      "fingerprint": "25d298c4738bc4a1fc071b3d66afce60941a2af3110c8f1bac42e1b13d13403f",
+      "fingerprint": "e880b40abbaa990cb5145d61bd86db68cfa167804eab5a63b636e4db9c869157",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "ebf6563d755a33a3d0f36329",
@@ -410718,7 +410736,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/naza",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410727,7 +410745,7 @@
     },
     {
       "uid": "5554acb644add3cbd6fd597fb70181f0@mexico-city-cinema-calendar",
-      "fingerprint": "deb6c87f9154a85ed1abfe7357c510c65f51211a5e0b257667ad5f2d23b7ddaa",
+      "fingerprint": "9ef9081b955bf400aeba4c203b6f5d187ebe7878f42e95fe9cdd514736920706",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "9ac945e98c5a5e6757c060a7",
@@ -410736,7 +410754,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/rio-de-sapos-2175",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410745,7 +410763,7 @@
     },
     {
       "uid": "d8b4196f99fbda29d4ea2ff3f99ba099@mexico-city-cinema-calendar",
-      "fingerprint": "ac3b4cda49c337cf2615479de36fa9e4c223009f39421b5b75d86aff38f09467",
+      "fingerprint": "64414bf994bc92fee1d8f2f42031340e4c0d0a28d89bac7ad4050ab8ec0ebc76",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "a3b902f83dc3424717115039",
@@ -410754,7 +410772,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/su-propio-infierno",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410763,7 +410781,7 @@
     },
     {
       "uid": "3b924927c6db3a92dacfe67fa5c6345b@mexico-city-cinema-calendar",
-      "fingerprint": "6aea414e825665dfe23a8a55b779b48db6290fdffaac32e2a2e0738411d113cf",
+      "fingerprint": "c130b57d758858133abd35867cb83ff0b867215a8eaf63406d50a0180f10a9a3",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "215a0aee51489bdec966fcaf",
@@ -410772,7 +410790,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/hope-el-primer-impacto",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410781,7 +410799,7 @@
     },
     {
       "uid": "d00aec305a6717783c1748069c538eda@mexico-city-cinema-calendar",
-      "fingerprint": "83fe92301780fb8350dac7ddfb5cdb4eba042c6bce427dbdba37c6a70df189fa",
+      "fingerprint": "d6e756d15e074a9886d33f75e0bdcd329cc5bc54e6983b259f93ecd69005a385",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "656ca69bc8ef9b858d3e7411",
@@ -410790,7 +410808,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/la-pequena-hermana",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410799,7 +410817,7 @@
     },
     {
       "uid": "ead0e1ec627a81ba081bfc35b4a4d0af@mexico-city-cinema-calendar",
-      "fingerprint": "4b3ad77e4feb0afda445af1a6535b13e2bf93d7b56571227c6fe4832118764de",
+      "fingerprint": "e3aac39c222e530e7ef879579bee747eb9dd13b523ef0ed67965cd285d337ad2",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "b55427507dae7d33eceef887",
@@ -410808,7 +410826,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/mary-y-max",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410817,7 +410835,7 @@
     },
     {
       "uid": "a6e5170fd3d4af6f8f9314e001d3690c@mexico-city-cinema-calendar",
-      "fingerprint": "88bbe041c2f034b63cbac038fe9a794bbfe1f7ba7ead73cc4ea9ee51d6fe784f",
+      "fingerprint": "9a3c53c5fe8fed462b272dd229f312f492227281c87e7e972a07ce1a1414cb05",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "552f272094ebac8c63d915d3",
@@ -410826,7 +410844,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/naza-2193",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410835,7 +410853,7 @@
     },
     {
       "uid": "188d969b7cf179953b9efaf25c3da0aa@mexico-city-cinema-calendar",
-      "fingerprint": "8a38b8477520db66d719223d08db3e2e7ef521aebb9ee863dbf130c68e845daf",
+      "fingerprint": "2e5187a93c189a52e3e751c57a40e00e36fe74d9ab85e950f87c8a3aa136479e",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "6391eaf3ff0d49f772f7f847",
@@ -410844,7 +410862,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/naza",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410853,7 +410871,7 @@
     },
     {
       "uid": "427e75b5e51bab728b53f77e33b2c61b@mexico-city-cinema-calendar",
-      "fingerprint": "a654cbcc88c63820ad19039b72dbe75dfb0438f948ea4f10899e6fb8e45b5e68",
+      "fingerprint": "a6650d8c85383821f917450af3bcd4ebafadc06b950d1d1657ee7de322e0fc53",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "34e0f8d57362278996299aec",
@@ -410862,7 +410880,7 @@
         "venue": "Cinemanía Loreto",
         "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, CDMX",
         "url": "https://www.passline.com/sitio-evento/su-propio-infierno",
-        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: San Ángel\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410871,7 +410889,7 @@
     },
     {
       "uid": "c4cafdd24688f7ba23a69713082b5311@mexico-city-cinema-calendar",
-      "fingerprint": "bcc8782f5b63d974cd72ada6cca925274e55f9fa5c427454460ac79036384fca",
+      "fingerprint": "86bb50ceaf0d25109654b977868073cdf7bbb81cd05cbd63f2637825eb6ef415",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "a96f004ea76ce1cde220f340",
@@ -410880,7 +410898,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/la-desaparicion-de-josef-mengele-2173",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
@@ -410889,7 +410907,7 @@
     },
     {
       "uid": "aaa33a85a303c1700289008af9cbf9a2@mexico-city-cinema-calendar",
-      "fingerprint": "effebced2fc218a0f2f32822e0204703651b53e6bd01314d55854b077afe480e",
+      "fingerprint": "93716276ff00c54c800341942d5499b0dcad70b191eceac97ee96dcf299be5e8",
       "event": {
         "source": "hay-cine-cdmx",
         "source_id": "abb92e5fe3154140dd7ff522",
@@ -410898,7 +410916,7 @@
         "venue": "Cine Tonalá",
         "address": "Tonalá 261, Roma Sur, Cuauhtémoc, CDMX",
         "url": "https://cinetonalaromasur.ordenaboletos.com.mx/cine/la-pequena-hermana-2155",
-        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
+        "description": "Zona: Roma Sur\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.\nRemoved from source schedule.",
         "runtime_minutes": null,
         "language": "",
         "format": "",
