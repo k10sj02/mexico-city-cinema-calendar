@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-23T18:21:41.817465-06:00",
-  "count": 4954,
-  "evening_count": 2609,
+  "generated": "2026-11-24T04:25:43.560723-06:00",
+  "count": 4223,
+  "evening_count": 2227,
   "sources_ok": [
     "cineya-cdmx",
     "hay-cine-cdmx"
   ],
   "errors": {},
   "coverage_ends": {
-    "hay-cine-cdmx": "2026-12-13"
+    "hay-cine-cdmx": "2026-12-14"
   }
 }
