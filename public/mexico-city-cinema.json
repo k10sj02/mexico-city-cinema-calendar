@@ -1,14 +1,13 @@
 {
-  "generated": "2026-11-27T15:38:18.416736-06:00",
-  "count": 3131,
-  "evening_count": 1620,
+  "generated": "2026-11-28T02:26:31.749070-06:00",
+  "count": 2645,
+  "evening_count": 1364,
   "sources_ok": [
+    "cineya-cdmx",
     "hay-cine-cdmx"
   ],
-  "errors": {
-    "cineya-cdmx": "Unable to fetch https://cineya.lat/mx/ciudad-de-mexico/: Client error '403 Forbidden' for url 'https://cineya.lat/mx/ciudad-de-mexico/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
-  },
+  "errors": {},
   "coverage_ends": {
-    "hay-cine-cdmx": "2026-12-17"
+    "hay-cine-cdmx": "2026-12-18"
   }
 }
